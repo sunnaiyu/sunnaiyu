@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+8月11日java学习，Socket通信，和练习代码
 <!--
 **sunnaiyu/sunnaiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
